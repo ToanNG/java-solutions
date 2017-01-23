@@ -1,6 +1,6 @@
 public class Hello {
   public String say(String name) {
-    String result = "Hello, ";
+    String result = "Hello, " + name + "!";
     return result;
   }
 
