@@ -5,7 +5,7 @@ public class Hello {
   }
 
   public String say() {
-    String result = "Hello, world!";
+    String result = "Hello, world";
     return result;
   }
 }
