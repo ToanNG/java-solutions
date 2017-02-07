@@ -11,5 +11,5 @@ public class BookCart {
   int bukuMajalah = 1;
   int bukuNovel = 2;
   int bukuEnsiklopedia = 4;
-  int bukuKomik = 5;
+  int bukuKomik = 3;
 }
